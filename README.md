@@ -1,26 +1,3 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title> AI研判助手 · 隐私政策 / Privacy Policy </title>
-<style>
-  :root { color-scheme: light dark; }
-  body { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
-         max-width: 860px; margin: 40px auto; padding: 0 20px; line-height: 1.75;
-         color: #1f2328; background: #fff; }
-  h1 { font-size: 26px; margin-bottom: 4px; }
-  h2 { font-size: 19px; margin-top: 32px; border-left: 4px solid #6b4fd8; padding-left: 10px; }
-  .meta { color: #666; font-size: 13px; margin-bottom: 24px; }
-  table { border-collapse: collapse; width: 100%; margin: 12px 0; font-size: 14px; }
-  th, td { border: 1px solid #d0d7de; padding: 8px 10px; text-align: left; vertical-align: top; }
-  th { background: #f6f8fa; }
-  code { background: #f0f2f5; padding: 1px 5px; border-radius: 4px; font-size: 13px; }
-  .en { margin-top: 48px; border-top: 1px solid #d0d7de; padding-top: 28px; }
-  footer { margin-top: 48px; font-size: 13px; color: #666; }
-</style>
-</head>
-<body>
 
 <h1>AI研判助手 · 隐私政策</h1>
 <div class="meta">
