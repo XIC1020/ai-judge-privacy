@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI研判助手 · 隐私政策 / Privacy Policy</title>
+<title> AI研判助手 · 隐私政策 / Privacy Policy </title>
 <style>
   :root { color-scheme: light dark; }
   body { font-family: -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
